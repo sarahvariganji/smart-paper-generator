@@ -1,0 +1,569 @@
+[
+ {
+  "id": 0,
+  "t": "A",
+  "y": "M",
+  "d": "E",
+  "q": "Find x if 2x + 6 = 14.",
+  "o": [
+   "2",
+   "4",
+   "6",
+   "8"
+  ],
+  "a": 1
+ },
+ {
+  "id": 1,
+  "t": "A",
+  "y": "M",
+  "d": "E",
+  "q": "The degree of 3x³ − x + 5 is:",
+  "o": [
+   "1",
+   "2",
+   "3",
+   "5"
+  ],
+  "a": 2
+ },
+ {
+  "id": 2,
+  "t": "A",
+  "y": "M",
+  "d": "E",
+  "q": "The sum of the roots of x² − 5x + 6 = 0 is:",
+  "o": [
+   "5",
+   "6",
+   "−5",
+   "1"
+  ],
+  "a": 0
+ },
+ {
+  "id": 3,
+  "t": "A",
+  "y": "M",
+  "d": "M",
+  "q": "The discriminant of 2x² − 4x + 3 = 0 is:",
+  "o": [
+   "−8",
+   "8",
+   "16",
+   "−4"
+  ],
+  "a": 0
+ },
+ {
+  "id": 4,
+  "t": "A",
+  "y": "M",
+  "d": "M",
+  "q": "The roots of x² + 4x + 4 = 0 are:",
+  "o": [
+   "real and equal",
+   "real and distinct",
+   "not real",
+   "irrational"
+  ],
+  "a": 0
+ },
+ {
+  "id": 5,
+  "t": "A",
+  "y": "M",
+  "d": "M",
+  "q": "The nth term of the AP 3, 7, 11, … is:",
+  "o": [
+   "4n − 1",
+   "4n + 1",
+   "3n + 4",
+   "4n − 3"
+  ],
+  "a": 0
+ },
+ {
+  "id": 6,
+  "t": "A",
+  "y": "M",
+  "d": "M",
+  "q": "The sum of the first 10 natural numbers is:",
+  "o": [
+   "45",
+   "55",
+   "50",
+   "100"
+  ],
+  "a": 1
+ },
+ {
+  "id": 7,
+  "t": "A",
+  "y": "M",
+  "d": "H",
+  "q": "If α, β are roots of x² − 7x + 10 = 0, then α² + β² =",
+  "o": [
+   "29",
+   "39",
+   "49",
+   "19"
+  ],
+  "a": 0
+ },
+ {
+  "id": 8,
+  "t": "A",
+  "y": "M",
+  "d": "H",
+  "q": "The 5th term of the GP 2, 6, 18, … is:",
+  "o": [
+   "162",
+   "486",
+   "54",
+   "242"
+  ],
+  "a": 0
+ },
+ {
+  "id": 9,
+  "t": "A",
+  "y": "S",
+  "d": "E",
+  "q": "Solve: 3x − 7 = 11.",
+  "o": null,
+  "a": "x = 6"
+ },
+ {
+  "id": 10,
+  "t": "A",
+  "y": "S",
+  "d": "M",
+  "q": "Solve x² − 7x + 12 = 0.",
+  "o": null,
+  "a": "x = 3 or x = 4"
+ },
+ {
+  "id": 11,
+  "t": "A",
+  "y": "S",
+  "d": "M",
+  "q": "Find the sum of the first 20 terms of the AP 5, 9, 13, …",
+  "o": null,
+  "a": "S₂₀ = 860"
+ },
+ {
+  "id": 12,
+  "t": "A",
+  "y": "S",
+  "d": "H",
+  "q": "Find k for which x² + kx + 9 = 0 has equal roots.",
+  "o": null,
+  "a": "k = ±6"
+ },
+ {
+  "id": 13,
+  "t": "A",
+  "y": "L",
+  "d": "E",
+  "q": "Solve x + y = 10 and x − y = 2, and verify your answer.",
+  "o": null,
+  "a": "x = 6, y = 4"
+ },
+ {
+  "id": 14,
+  "t": "A",
+  "y": "L",
+  "d": "M",
+  "q": "Solve 2x² − 5x − 3 = 0 by factorisation.",
+  "o": null,
+  "a": "(2x + 1)(x − 3) = 0 → x = 3 or −½"
+ },
+ {
+  "id": 15,
+  "t": "A",
+  "y": "L",
+  "d": "H",
+  "q": "Two positive numbers differ by 3 and their product is 54. Find them.",
+  "o": null,
+  "a": "x(x + 3) = 54 → 6 and 9"
+ },
+ {
+  "id": 16,
+  "t": "G",
+  "y": "M",
+  "d": "E",
+  "q": "The sum of the angles of a triangle is:",
+  "o": [
+   "90°",
+   "180°",
+   "270°",
+   "360°"
+  ],
+  "a": 1
+ },
+ {
+  "id": 17,
+  "t": "G",
+  "y": "M",
+  "d": "E",
+  "q": "A hexagon has how many sides?",
+  "o": [
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "a": 1
+ },
+ {
+  "id": 18,
+  "t": "G",
+  "y": "M",
+  "d": "E",
+  "q": "Area of a rectangle 8 cm × 5 cm is:",
+  "o": [
+   "13 cm²",
+   "26 cm²",
+   "40 cm²",
+   "80 cm²"
+  ],
+  "a": 2
+ },
+ {
+  "id": 19,
+  "t": "G",
+  "y": "M",
+  "d": "M",
+  "q": "Area of a circle of radius 7 cm (π = 22/7):",
+  "o": [
+   "44 cm²",
+   "154 cm²",
+   "308 cm²",
+   "49 cm²"
+  ],
+  "a": 1
+ },
+ {
+  "id": 20,
+  "t": "G",
+  "y": "M",
+  "d": "M",
+  "q": "Which is a Pythagorean triple?",
+  "o": [
+   "4, 5, 6",
+   "5, 12, 13",
+   "6, 7, 8",
+   "7, 8, 9"
+  ],
+  "a": 1
+ },
+ {
+  "id": 21,
+  "t": "G",
+  "y": "M",
+  "d": "M",
+  "q": "Diagonal of a square of side 6 cm is:",
+  "o": [
+   "6 cm",
+   "6√2 cm",
+   "12 cm",
+   "36 cm"
+  ],
+  "a": 1
+ },
+ {
+  "id": 22,
+  "t": "G",
+  "y": "M",
+  "d": "M",
+  "q": "Circumference of a circle of radius 14 cm (π = 22/7):",
+  "o": [
+   "44 cm",
+   "88 cm",
+   "154 cm",
+   "616 cm"
+  ],
+  "a": 1
+ },
+ {
+  "id": 23,
+  "t": "G",
+  "y": "M",
+  "d": "H",
+  "q": "A chord of length 8 cm is 3 cm from the centre. The radius is:",
+  "o": [
+   "4 cm",
+   "5 cm",
+   "6 cm",
+   "7 cm"
+  ],
+  "a": 1
+ },
+ {
+  "id": 24,
+  "t": "G",
+  "y": "M",
+  "d": "H",
+  "q": "△ABC ~ △DEF with sides in ratio 2 : 3. Ratio of their areas:",
+  "o": [
+   "2 : 3",
+   "4 : 9",
+   "3 : 2",
+   "8 : 27"
+  ],
+  "a": 1
+ },
+ {
+  "id": 25,
+  "t": "G",
+  "y": "S",
+  "d": "E",
+  "q": "Find the area of a triangle with base 10 cm and height 6 cm.",
+  "o": null,
+  "a": "30 cm²"
+ },
+ {
+  "id": 26,
+  "t": "G",
+  "y": "S",
+  "d": "M",
+  "q": "A 13 m ladder reaches 12 m up a wall. How far is its foot from the wall?",
+  "o": null,
+  "a": "5 m"
+ },
+ {
+  "id": 27,
+  "t": "G",
+  "y": "S",
+  "d": "M",
+  "q": "Curved surface area of a cylinder, r = 7 cm, h = 10 cm (π = 22/7).",
+  "o": null,
+  "a": "440 cm²"
+ },
+ {
+  "id": 28,
+  "t": "G",
+  "y": "S",
+  "d": "H",
+  "q": "A point is 13 cm from the centre of a circle of radius 5 cm. Find the tangent length.",
+  "o": null,
+  "a": "12 cm"
+ },
+ {
+  "id": 29,
+  "t": "G",
+  "y": "L",
+  "d": "E",
+  "q": "A right triangle has legs 9 cm and 12 cm. Find the hypotenuse and the area.",
+  "o": null,
+  "a": "15 cm; 54 cm²"
+ },
+ {
+  "id": 30,
+  "t": "G",
+  "y": "L",
+  "d": "M",
+  "q": "In △ABC, DE ∥ BC with AD = 4, DB = 6, AE = 6. Find EC.",
+  "o": null,
+  "a": "By BPT: 4/6 = 6/EC → EC = 9"
+ },
+ {
+  "id": 31,
+  "t": "G",
+  "y": "L",
+  "d": "H",
+  "q": "A cone has r = 7 cm, h = 24 cm. Find its volume and total surface area.",
+  "o": null,
+  "a": "l = 25; V = 1232 cm³; TSA = 704 cm²"
+ },
+ {
+  "id": 32,
+  "t": "T",
+  "y": "M",
+  "d": "E",
+  "q": "sin 30° =",
+  "o": [
+   "1/2",
+   "√3/2",
+   "1",
+   "0"
+  ],
+  "a": 0
+ },
+ {
+  "id": 33,
+  "t": "T",
+  "y": "M",
+  "d": "E",
+  "q": "tan 45° =",
+  "o": [
+   "0",
+   "1",
+   "√3",
+   "1/√3"
+  ],
+  "a": 1
+ },
+ {
+  "id": 34,
+  "t": "T",
+  "y": "M",
+  "d": "E",
+  "q": "sin²θ + cos²θ =",
+  "o": [
+   "0",
+   "1",
+   "2",
+   "tan²θ"
+  ],
+  "a": 1
+ },
+ {
+  "id": 35,
+  "t": "T",
+  "y": "M",
+  "d": "M",
+  "q": "sin 60° cos 30° + cos 60° sin 30° =",
+  "o": [
+   "0",
+   "1/2",
+   "1",
+   "√3"
+  ],
+  "a": 2
+ },
+ {
+  "id": 36,
+  "t": "T",
+  "y": "M",
+  "d": "M",
+  "q": "tan 60° =",
+  "o": [
+   "1",
+   "√3",
+   "1/√3",
+   "0"
+  ],
+  "a": 1
+ },
+ {
+  "id": 37,
+  "t": "T",
+  "y": "M",
+  "d": "M",
+  "q": "1 + tan²θ =",
+  "o": [
+   "sec²θ",
+   "cosec²θ",
+   "cot²θ",
+   "sin²θ"
+  ],
+  "a": 0
+ },
+ {
+  "id": 38,
+  "t": "T",
+  "y": "M",
+  "d": "M",
+  "q": "If sin θ = 3/5, then cos θ =",
+  "o": [
+   "3/4",
+   "4/5",
+   "5/4",
+   "4/3"
+  ],
+  "a": 1
+ },
+ {
+  "id": 39,
+  "t": "T",
+  "y": "M",
+  "d": "H",
+  "q": "(1 − sin²θ) sec²θ =",
+  "o": [
+   "0",
+   "1",
+   "sin²θ",
+   "tan²θ"
+  ],
+  "a": 1
+ },
+ {
+  "id": 40,
+  "t": "T",
+  "y": "M",
+  "d": "H",
+  "q": "If tan θ = 1, then sin θ cos θ =",
+  "o": [
+   "1",
+   "1/2",
+   "√2",
+   "1/4"
+  ],
+  "a": 1
+ },
+ {
+  "id": 41,
+  "t": "T",
+  "y": "S",
+  "d": "E",
+  "q": "Evaluate sin 30° + cos 60°.",
+  "o": null,
+  "a": "1"
+ },
+ {
+  "id": 42,
+  "t": "T",
+  "y": "S",
+  "d": "M",
+  "q": "If tan θ = 3/4, find sin θ.",
+  "o": null,
+  "a": "3/5"
+ },
+ {
+  "id": 43,
+  "t": "T",
+  "y": "S",
+  "d": "M",
+  "q": "Evaluate 2tan²45° + cos²30° − sin²60°.",
+  "o": null,
+  "a": "2"
+ },
+ {
+  "id": 44,
+  "t": "T",
+  "y": "S",
+  "d": "H",
+  "q": "Prove (sin θ + cos θ)² + (sin θ − cos θ)² = 2.",
+  "o": null,
+  "a": "Expand; sin²θ + cos²θ = 1 twice → 2"
+ },
+ {
+  "id": 45,
+  "t": "T",
+  "y": "L",
+  "d": "E",
+  "q": "A ladder 10 m long leans on a wall at 60° to the ground. Find the height reached and the foot distance.",
+  "o": null,
+  "a": "Height 5√3 ≈ 8.66 m; foot 5 m"
+ },
+ {
+  "id": 46,
+  "t": "T",
+  "y": "L",
+  "d": "M",
+  "q": "A tower casts a 30 m shadow when the sun's elevation is 30°. Find its height.",
+  "o": null,
+  "a": "30·tan 30° = 10√3 ≈ 17.32 m"
+ },
+ {
+  "id": 47,
+  "t": "T",
+  "y": "L",
+  "d": "H",
+  "q": "Prove sin θ/(1 − cos θ) + (1 − cos θ)/sin θ = 2 cosec θ.",
+  "o": null,
+  "a": "Combine: (sin²θ + (1 − cos θ)²)/(sin θ(1 − cos θ)) = 2/sin θ"
+ }
+]
